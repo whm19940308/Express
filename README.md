@@ -5,5 +5,5 @@
 $e = new Express();
 $data = $e->getLogisticsInfo("453371918456");
  
-echo '<pre>';
+
 var_dump($data);
