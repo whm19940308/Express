@@ -9,6 +9,7 @@
 
 class Express {
 
+    
     /**
      * @desc 采集网页内容的方法，建议使用curl，效率更高
      * @param $url
