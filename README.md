@@ -3,6 +3,10 @@
 
 使用示例：
 使用如下，只需要调用类中的getLogisticsInfo()方法，参数传入订单号即可
+
+```php
+<?php
+
 $e = new Express();
 $data = $e->getLogisticsInfo("453371918456");
  
